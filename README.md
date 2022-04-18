@@ -22,6 +22,12 @@
 
 <hr>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LombardoCode&layout=default&theme=dark&text_color=FFFFFF&langs_count=10&hide=gdscript)](https://github.com/LombardoCode/github-readme-stats)
+
+![LombardoCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LombardoCode&show_icons=true&theme=dark&icon_color=FFFFFF)
+
+<hr>
+
 🌱 I would like to learn in the future:
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
