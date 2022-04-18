@@ -22,9 +22,9 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LombardoCode&layout=compact&theme=dark&text_color=FFFFFF&langs_count=10&hide=gdscript)](https://github.com/LombardoCode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LombardoCode&layout=compact&langs_count=10&hide=gdscript)](https://github.com/LombardoCode/github-readme-stats)
 
-![LombardoCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LombardoCode&show_icons=true&theme=dark&icon_color=FFFFFF)
+![LombardoCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=LombardoCode&show_icons=true&icon_color=FFFFFF)
 
 <hr>
 
