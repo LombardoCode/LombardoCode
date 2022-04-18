@@ -1,6 +1,6 @@
-### Hi there, my name is Lombardo Moreno Rodríguez and I'm a web developer located in Guadalupe, Nuevo León, México. 👋
+<h2>Hello! My name is Lombardo Moreno Rodríguez and I'm a Web Developer located in Guadalupe, Nuevo León, México. 👋</h2>
 
-🚀 Languages / frameworks:
+<h4>🚀 Languages / frameworks:</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,7 +28,7 @@
 
 <hr>
 
-🌱 I would like to learn in the future:
+<h4>🌱 I would like to learn in the future:</h4>
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
@@ -38,8 +38,7 @@
 
 <hr>
 
-📫 How to reach me:
-<br>
+<h4>📫 How to reach me:</h4>
 <span><span style="font-weight: bold">✉️ Email</span>: LombardoBusiness@gmail.com</span>
 <br>
 <span><span style="font-weight: bold">🌐 Website</span>: <a href="https://lombardomr.netlify.app/en/" target="_blank">https://lombardomr.netlify.app/en/</a></span>
